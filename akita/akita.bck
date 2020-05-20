@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED
+D general LED
+K opto IR LED
+F http://www.osram-os.com/Graphics/XPic6/00029609_0.pdf/SFh%20460.pdf
+$ENDCMP
+#
+$CMP OPA_NJU77701
+D JRC NJU77701
+$ENDCMP
+#
+$CMP TR_nMOS_IRF7103
+D 0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+$ENDCMP
+#
+$CMP USB_Ax2
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library
